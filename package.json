@@ -1,0 +1,71 @@
+{
+  "_from": "angular-table@git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+  "_id": "angular-table@1.0.4",
+  "_inBundle": false,
+  "_location": "/angular-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "angular-table@git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+    "name": "angular-table",
+    "escapedName": "angular-table",
+    "rawSpec": "git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+    "saveSpec": "git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+    "fetchSpec": "https://github.com/samu/angular-table.git",
+    "gitCommittish": "9e213b9b76a8152a74dffc66ca46dabb0bb3db40"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+  "_spec": "angular-table@git+https://github.com/samu/angular-table.git#9e213b9b76a8152a74dffc66ca46dabb0bb3db40",
+  "_where": "C:\\Guidewire\\GatewayPortal\\EdgeGatewayPortal_R226\\common",
+  "author": {
+    "name": "Samuel Mueller"
+  },
+  "bugs": {
+    "url": "https://github.com/samu/angular-table/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "angular": "~1.2.9"
+  },
+  "deprecated": false,
+  "description": "Angular directive which allows to declare sortable tables and to add pagination with very little effort.",
+  "devDependencies": {
+    "angular-mocks": "~1.2.9",
+    "bower": "~1.3.3",
+    "grunt": "~0.4.1",
+    "grunt-banner": "~0.2.1",
+    "grunt-cli": "~0.1.8",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-uglify": "~0.3.3",
+    "karma": "1.3.0",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-jasmine": "^0.1.5",
+    "karma-ng-html2js-preprocessor": "^0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "underscore": "~1.6.0"
+  },
+  "homepage": "https://github.com/samu/angular-table",
+  "keywords": [
+    "angular",
+    "table",
+    "sortable",
+    "sorting",
+    "paginated",
+    "pagination"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "angular-table",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samu/angular-table.git"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start --single-run --browsers PhantomJS"
+  },
+  "version": "1.0.4"
+}
